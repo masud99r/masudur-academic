@@ -10,6 +10,7 @@ design:
   background:
     image: /assets/media/rahman64.jpg
     image_darken: 0
+  columns: ""
 ---
 I am a Ph.D. student in the department of [Computer Science](https://www.cs.purdue.edu/) at the [Purdue University](https://www.purdue.edu/). My advisor is Professor [Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/).
 
