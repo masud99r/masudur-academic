@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: RECENT-POSTS
 headless: true
-weight: 20
+weight: 10
 title: ""
 design:
   background:
