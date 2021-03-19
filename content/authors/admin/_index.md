@@ -1,7 +1,7 @@
 ---
 title: Md Masudur Rahman
 role: Ph.D. Student in Computer Science
-avatar_filename: rahman64.jpg
+avatar_filename: assets/media/rahman64.jpg
 bio: I am a Ph.D. student in the department of [Computer
   Science](https://www.cs.purdue.edu/) at the [Purdue
   University](https://www.purdue.edu/). My advisor is Professor [Yexiang
