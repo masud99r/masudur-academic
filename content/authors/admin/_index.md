@@ -2,26 +2,26 @@
 title: Md Masudur Rahman
 role: Ph.D. Student in Computer Science
 avatar_filename: rahman64.jpg
-bio: I am a Ph.D. student in the department of [Computer
-  Science](https://www.cs.purdue.edu/) at the [Purdue
-  University](https://www.purdue.edu/). My advisor is Professor [Yexiang
-  Xue](https://www.cs.purdue.edu/homes/yexiang/).I am a Ph.D. student in the
-  department of [Computer Science](https://www.cs.purdue.edu/) at the [Purdue
-  University](https://www.purdue.edu/). My advisor is Professor [Yexiang
-  Xue](https://www.cs.purdue.edu/homes/yexiang/).
+bio: ""
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
-  - and Robotics
+  - Robotics
 social: []
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: Computer Science
+      institution: University of Virginia
+      year: 2018
+    - course: Computer Science and Engineering
+      institution: "Bangladesh University of Engineering and Technology  "
+      year: 2013
 email: rahman64@purdue.edu
 superuser: true
 highlight_name: false
 ---
-
+I am a Ph.D. student in the department of [Computer Science](https://www.cs.purdue.edu/) at the [Purdue University](https://www.purdue.edu/). My advisor is Professor [Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/).I am a Ph.D. student in the department of [Computer Science](https://www.cs.purdue.edu/) at the [Purdue University](https://www.purdue.edu/). My advisor is Professor [Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/).
 
 I am broadly interested in Artificial Intelligence, Machine Learning, and Robotics. I work on designing and building intelligent learning agents (e.g., RL) which can make interpretable critical decisions under uncertainty.
 
