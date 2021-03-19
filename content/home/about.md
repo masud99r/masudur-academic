@@ -8,7 +8,7 @@ weight: 10
 title: ""
 design:
   background:
-    image: /assets/media/rahman64.jpg
+    image: ""
     image_darken: 0
   columns: ""
 ---
