@@ -11,9 +11,6 @@ interests:
   - Reinforcement Learning
   - Robotics
 social: 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/masud99r
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=0nUv7b0AAAAJ&view_op=list_works
@@ -23,6 +20,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/masud99r/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/masud99r
 education:
   courses:
     - course: MS in Computer Science
