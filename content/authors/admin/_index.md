@@ -1,20 +1,34 @@
 ---
 title: Md Masudur Rahman
 role: Ph.D. Student in Computer Science
-avatar_filename: rahman64.jpg
-bio: Purdue University
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Purdue University
+  url: https://www.cs.purdue.edu/
+bio: I am broadly interested in Artificial Intelligence, Machine Learning, and Robotics. I work on designing and building intelligent learning agents (e.g., RL) which can make interpretable critical decisions under uncertainty.
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
   - Robotics
-social: []
-organizations: []
+social: 
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/masud99r
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=en&user=0nUv7b0AAAAJ&view_op=list_works
+- icon: github
+  icon_pack: fab
+  link: https://github.com/masud99r
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/masud99r/
 education:
   courses:
     - course: MS in Computer Science
       institution: University of Virginia
       year: 2018
-    - course: B.Sc. in Computer Science and Engineering
+    - course: BSc in Computer Science and Engineering
       institution: "Bangladesh University of Engineering and Technology  "
       year: 2013
 email: rahman64@purdue.edu
