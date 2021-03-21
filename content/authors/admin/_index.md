@@ -40,3 +40,5 @@ I am a Ph.D. student in the department of [Computer Science](https://www.cs.pur
 I am broadly interested in Artificial Intelligence, Machine Learning, and Robotics. I work on designing and building intelligent learning agents (e.g., RL) which can make interpretable critical decisions under uncertainty.
 
 I completed my M.S. from the Department of [Computer Science](https://engineering.virginia.edu/departments/computer-science) at the University of Virginia in 2018. Before joining the University of Virginia, I worked as a Lecturer in the [Computer Science and Engineering](http://www.bracu.ac.bd/academics/departments/computer-science-and-engineering) department at the BRAC University. I completed my B.Sc. in [Computer Science and Engineering](http://cse.buet.ac.bd/) from Bangladesh University of Engineering and Technology (BUET) in 2013.
+
+Email: rahman64@purdue.edu
