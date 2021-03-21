@@ -16,12 +16,15 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Posts
-    url: '#posts'
+  - name: Teaching
+    url: '#teaching'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Mentoring
+    url: '#mentoring'
     weight: 60
+- name: Activity
+  url: '#activity'
+  weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
