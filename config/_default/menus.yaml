@@ -22,12 +22,11 @@ main:
   - name: Mentoring
     url: '#mentoring'
     weight: 60
-- name: Activity
-  url: '#activity'
-  weight: 70
-
+  - name: Activity
+    url: '#activity'
+    weight: 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/md_masudur_rahman_cv.pdf
+    weight: 80
