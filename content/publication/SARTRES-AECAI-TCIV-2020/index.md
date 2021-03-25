@@ -15,7 +15,7 @@ authors:
 - Yexiang Xue
 - Richard Voyles
 - Vaneet Aggarwal
-- Juan Wachs.
+- Juan Wachs
 
 # Author notes (optional)
 author_notes:
