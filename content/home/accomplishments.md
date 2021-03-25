@@ -48,3 +48,5 @@ item:
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
+
+The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
