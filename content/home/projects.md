@@ -27,10 +27,20 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Deep Reinforcement Learning
+    tag: Deep Reinforcement Learning
+  - name: Transfer Learning
+    tag: Transfer Learning
+  - name: Surgical Robotics
+    tag: Surgical Robotics
+  - name: Causality
+    tag: Causality
+  - name: Information Retrieval
+    tag: Information Retrieval
+  - name: Software Engineering
+    tag: Software Engineering
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
