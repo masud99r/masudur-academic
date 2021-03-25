@@ -4,6 +4,8 @@ title: "SARTRES: A Semi-Autonomous Robot TeleopeRation Environment for Surgery"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
+
+# do not use dot at the end of author name (confirm?)
 authors:
 - admin
 - Mythra V. B. S. Mur
