@@ -67,7 +67,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ' An overview of the SARTRES framework. The multi-modal recognition module encodes recognized surgemes into high-level commands which the execution module executes.'
+  caption: 'SARTRES framework.'
   focal_point: ""
   preview_only: false
 
