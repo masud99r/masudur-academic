@@ -51,7 +51,7 @@ date_format: Jan 2006
 
 I am fortunate to work with following students in various capacities.
 
-**Jed Barson** (Undergrad, Purdue University, 2021-now) <br />
+**Zachery Peter Berg** (Undergrad, Purdue University, 2021-now) <br />
 Topic: Reinforcement Learning <br />
 
 **Brian Yifei Sun** (Undergrad, Purdue University, 2021-now) <br />
