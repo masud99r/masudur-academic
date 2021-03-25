@@ -6,10 +6,10 @@ title: "SARTRES: A Semi-Autonomous Robot TeleopeRation Environment for Surgery"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Mythra Varun Balakuntala Srinivasa Mur
+- Mythra V. B. S. Mur
 - Mridul Agarwal
 - Upinder Kaur
-- Vishnunandan Lakshmi Venkatesh
+- Vishnunandan L. Venkatesh
 - Glebys Gonzalez
 - Natalia Sanchez Tamayo
 - Yexiang Xue
