@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Mentoring'
 subtitle:
 
 # Date format
@@ -49,4 +49,19 @@ item:
   url: ""
 ---
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+I am fortunate to work with following students in various capacities.
+
+**Jed Barson** (Undergrad, Purdue University, 2021-now) <br />
+Topic: Reinforcement Learning <br />
+
+**Brian Yifei Sun** (Undergrad, Purdue University, 2021-now) <br />
+Topic: Reinforcement Learning <br />
+
+
+**Jed Barson** (Undergrad, University of Virginia, 2018) <br />
+Topic: Code Search <br />
+Appointment after graduation: Software Engineer at Cisco.
+
+**Eliza Yixuan Nie** (Undergrad, University of Virginia, 2017) <br />
+Topic: GitHub Project Search <br />
+Appointment after graduation: Software Engineer at Facebook.
