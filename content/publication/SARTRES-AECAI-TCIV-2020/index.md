@@ -46,7 +46,7 @@ summary: Teleoperated Robotic Surgery; Surgical activity recognition; Surgical v
 tags: [Surgical Robotics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
