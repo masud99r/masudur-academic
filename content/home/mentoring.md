@@ -57,6 +57,9 @@ Topic: Reinforcement Learning <br />
 **Brian Yifei Sun** (Undergrad, Purdue University, 2021-now) <br />
 Topic: Reinforcement Learning <br />
 
+**Chao Liu** (Ph.D Student, Chongqing University, China, 2018) <br />
+Topic: Recommending GitHub Project for Developer Onboarding <br />
+<!-- Appointment after graduation: Software Engineer at Cisco. -->
 
 **Jed Barson** (Undergrad, University of Virginia, 2018) <br />
 Topic: Code Search <br />
