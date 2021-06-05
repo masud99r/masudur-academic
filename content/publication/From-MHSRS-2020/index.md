@@ -1,5 +1,5 @@
 ---
-title: "DESERTS: Delay-Tolerant Semi-Autonomous Robot Teleoperation for Surgery"
+title: "From the DESK (Dexterous Surgical Skill) to the Battlefield - A Robotics Exploratory Study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,35 +8,38 @@ title: "DESERTS: Delay-Tolerant Semi-Autonomous Robot Teleoperation for Surgery"
 # do not use dot at the end of author name (confirm?)
 authors:
 - Glebys Gonzalez
-- Mridul Agarwal
-- Mythra Varun Balakuntala Srinivasa Mur
+- Upinder Kaur
 - admin
-- Richard Voyles
-- Vaneet Aggarwal
+- Vishnunandan Venkatesh
+- Natalia Sanchez-Tamayo
+- Gregory Hager
 - Yexiang Xue
+- Richard Voyles
 - Juan Wachs
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2021-06-01T00:00:00Z"
+date: "2020-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-01T00:00:00Z"
+publishDate: "2020-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of
-the 2021 IEEE International Conference on Robotics and Automation 
-publication_short: ICRA 2021
+publication: Military Health System Research Symposium Journal (Military Medicine) 
+publication_short: MHSRS Journal (Military Medicine) 2020
 
-abstract:  Telesurgery can be hindered by high-latency and low-bandwidth communication networks, often found in austere settings. Even delays of less than one second are known to negatively impact surgeries. To tackle the effects of connectivity associated with telerobotic surgeries, we propose the DESERTS framework. DESERTS provides a novel simulator interface where the surgeon can operate directly on a virtualized reality simulation and the activities are mirrored in a remote robot, almost simultaneously. Thus, the surgeon can perform the surgery uninterrupted, while high-level commands are extracted from his motions and are sent to a remote robotic agent. The simulated setup mirrors the remote environment, including an alphablended view of the remote scene. The framework abstracts the actions into atomic surgical maneuvers (surgemes) which eliminate the need to transmit compressed video information. This system uses a deep learning based architecture to perform live recognition of the surgemes executed by the operator. The robot then executes the received surgemes, thereby achieving semiautonomy. The framework’s performance was tested on a peg transfer task. We evaluated the accuracy of the recognition and execution module independently as well as during live execution. Furthermore, we assessed the framework’s performance in the presence of increasing delays. Notably, the system maintained a task success rate of 87% from no-delays to 5 seconds of delay.
+abstract:  Short response time is critical for future military medical operations in austere settings or remote areas. Such effective patient care at the point of injury can greatly benefit from the integration of semi-autonomous robotic systems. To achieve autonomy, robots would require massive libraries of maneuvers. While this is possible in controlled settings, obtaining surgical data in austere settings can be difficult. Hence, in this paper, we present the Dexterous Surgical Skill (DESK) database for knowledge transfer between robots. The peg transfer task was selected as it is one of 6 main tasks of laparoscopic training. Also, we provide a ML framework to evaluate novel transfer learning methodologies on this database. The collected DESK dataset comprises a set of surgical robotic skills using the four robotic platforms- Taurus II, simulated Taurus II, YuMi, and the da Vinci Research Kit. Then, we explored two different learning scenarios- no-transfer and domain-transfer. In the no-transfer scenario, the training and testing data were obtained from the same domain; whereas in the domain-transfer scenario, the training data is a blend of simulated and real robot data that is tested on a real robot. Using simulation data enhances the performance of the real robot where limited or no real data is available. The transfer model showed an accuracy of 81% for the YuMi robot when the ratio of real-to-simulated data was 22%-78%. For Taurus II and da Vinci robots, the model showed an accuracy of 97.5% and 93% respectively, training only with simulation data. Results indicate that simulation can be used to augment training data to enhance the performance of models in real scenarios. This shows the potential for future use of surgical data from the operating room in deployable surgical robots in remote areas.
 
 # Summary. An optional shortened abstract.
 summary: Teleoperated Robotic Surgery; Surgical activity recognition; Surgical vision and perception
